@@ -29,7 +29,7 @@ You can also use this directive with custom activating keys. To do that, simply 
 <hero konami-code="hadouken()" konami-keys="[40, 39, 65]"></hero>
 ```
 
-![](https://imgur.com/a/XtRLi)
+![](https://i.imgur.com/lW3wvKX.png)
 
 ## License
 
